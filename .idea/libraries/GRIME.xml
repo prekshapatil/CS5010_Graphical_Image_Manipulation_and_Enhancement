@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GRIME">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/IME/res/GRIME.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
